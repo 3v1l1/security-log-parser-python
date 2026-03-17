@@ -11,7 +11,7 @@ To simulate how a SOC analyst can use Python to automate the detection of suspic
 
 ---
 
-## Example Log Entry
+## Example Log Entry (Sample Input)
 
 Failed password for admin from 203.0.113.45 port 22 ssh2
 
