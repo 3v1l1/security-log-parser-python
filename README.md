@@ -56,19 +56,19 @@ Example Output
 
 ---
 
-Analyst Value
+## This script helps:
 
-This script helps:
-Detect potential brute-force attacks
-Identify suspicious IP activity
-Reduce manual effort in log review
+- Detect potential brute-force attacks  
+- Identify suspicious IP activity  
+- Reduce manual effort in log review  
 
 ---
 
-Tools / Concepts Used:
-Python
-Log Analysis
-Security Monitoring
-Basic Automation
+## Tools / Concepts Used:
+
+- Python
+- Log Analysis  
+- Security Monitoring
+- Basic Automation  
 
 ---
