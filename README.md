@@ -48,11 +48,13 @@ with open("auth.log") as file:
 
 for ip, count in failed_logins.items():
     print(ip, count)
-
+```
 ---
 Example Output
 203.0.113.45 3
 198.51.100.10 1
+
+---
 
 Analyst Value
 
@@ -61,8 +63,12 @@ Detect potential brute-force attacks
 Identify suspicious IP activity
 Reduce manual effort in log review
 
+---
+
 Tools / Concepts Used:
 Python
 Log Analysis
 Security Monitoring
 Basic Automation
+
+---
