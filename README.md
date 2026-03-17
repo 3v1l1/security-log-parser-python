@@ -24,6 +24,7 @@ To simulate how a SOC analyst can use Python to automate the detection of suspic
 - Counts repeated attempts from the same IP
 
 ---
+Script file: `log_parser.py`
 
 ## How to Run
 
@@ -54,3 +55,11 @@ for ip, count in failed_logins.items():
 
 203.0.113.45 3  
 198.51.100.10 1
+
+...
+## Tools / Concepts Used
+
+- Python
+- Log Analysis
+- Security Monitoring
+- Basic Automation
