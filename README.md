@@ -25,6 +25,13 @@ To simulate how a SOC analyst can use Python to automate the detection of suspic
 
 ---
 
+## How to Run
+
+1. Save the log file as `auth.log`
+2. Run the script:
+
+```bash
+python log_parser.py
 ## Sample Python Code
 
 ```python
@@ -41,3 +48,9 @@ with open("auth.log") as file:
 
 for ip, count in failed_logins.items():
     print(ip, count)
+
+```markdown
+## Example Output
+
+203.0.113.45 3  
+198.51.100.10 1
